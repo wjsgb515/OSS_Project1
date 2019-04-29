@@ -2,6 +2,7 @@
 
 void main()
 {
-  printf("안녕 세상");
+  printf("안녕 세상\n");
+  printf("반갑구나 세상아\n");
 }
   
